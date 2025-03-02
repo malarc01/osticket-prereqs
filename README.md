@@ -45,7 +45,7 @@ Install from the downloaded files the file named " PHPManagerForIISV1.5.0 "
 
 
 <p>
-<img src="https://imgur.com/7OTYMBG" height="80%" width="80%" alt="create a MS Azure VM"/>
+<img src="https://i.imgur.com/7OTYMBG" height="80%" width="80%" alt="create a MS Azure VM"/>
 </p>
 
 Install from the downloaded files the file " rewrite_amd64_en-US " Also known as IIS URL Rewrite Module 2 according to the setup screen.
