@@ -45,12 +45,12 @@ Install from the downloaded files the file named " PHPManagerForIISV1.5.0 "
 
 
 <p>
-<img src="https://i.imgur.com/7OTYMBG.png" height="80%" width="80%" alt="create a MS Azure VM"/>
+<img src="https://i.imgur.com/7OTYMBG.png" height="80%" width="80%" alt="All Downloaded Files"/>
 </p>
 
 Install from the downloaded files the file " rewrite_amd64_en-US " Also known as IIS URL Rewrite Module 2 according to the setup screen.
 <p>
-<img src="https://imgur.com/lYv8aUO.png" height="80%" width="80%" alt="create a MS Azure VM"/>
+<img src="https://imgur.com/lYv8aUO.png" height="80%" width="80%" alt="Installation of IIS URL Rewrite Module "/>
 </p>
 
 Create a folder/directory in C:\ drive and called it "PHP" final result -> C:/PHP to store the PHP files in the next steps.
@@ -58,7 +58,7 @@ Create a folder/directory in C:\ drive and called it "PHP" final result -> C:/PH
 Install from the downloaded files the file named " VC_redist.x86 "
 
 <p>
-<img src="https://imgur.com/MPLkcUo.png" height="80%" width="80%" alt="create a MS Azure VM"/>
+<img src="https://imgur.com/MPLkcUo.png" height="80%" width="80%" alt="All Dependencies"/>
 </p>
 
 <h2>Installation of MySQL database</h2>
@@ -68,7 +68,7 @@ Installation of file named " mysql-5.5.62-win32 " make sure to remember the pass
 
 
 <p>
-<img src="https://imgur.com/4mOEmxH" height="80%" width="80%" alt="create a MS Azure VM"/>
+<img src="https://imgur.com/4mOEmxH" height="80%" width="80%" alt="Install MySQL "/>
 </p>
 
 
@@ -79,19 +79,19 @@ Double click on the PHP Manager icon to ENABLE and REGISTER a new PHP version fo
 
 
 <p>
-<img src="https://imgur.com/E4Ryo2I.png" height="80%" width="80%" alt="create a MS Azure VM"/>
+<img src="https://imgur.com/E4Ryo2I.png" height="80%" width="80%" alt="Enable PHP and register new version"/>
 </p>
 
 
 Right click on "osTicket-v1.15.8" file and select "Extract All" to unzip the files.
 Copy the folder called upload into the following path "C:\inetpub\wwwroot".
 <p>
-<img src="https://imgur.com/Za985Py.png" height="80%" width="80%" alt="create a MS Azure VM"/>
+<img src="https://imgur.com/Za985Py.png" height="80%" width="80%" alt="copy osTicket to wwwroot"/>
 </p>
 Rename the folder " upload " you just copied to " osTicket ".
 
 <p>
-<img src="https://imgur.com/nsi18J7.png" height="80%" width="80%" alt="create a MS Azure VM"/>
+<img src="https://imgur.com/nsi18J7.png" height="80%" width="80%" alt="rename upload dir to osTicket"/>
 </p>
 
 
@@ -103,7 +103,7 @@ Go to Sites -> Default -> osTicket
 On the right side, find and click "Browse *:80".
 This will launch the setup page for osTicket 
 <p>
-<img src="https://imgur.com/mcE5hi2.png" height="80%" width="80%" alt="create a MS Azure VM"/>
+<img src="https://imgur.com/mcE5hi2.png" height="80%" width="80%" alt="osTicket Installer"/>
 </p>
 
 In Internet Information Services (IIS) click on the " PHP Manager " to ENABLE 3 extensions that are disabled.
@@ -111,7 +111,7 @@ In Internet Information Services (IIS) click on the " PHP Manager " to ENABLE 3 
 - php_intl.dll (international languages)
 - php_opcache.dll (improve performance via caching)
 <p>
-<img src="https://imgur.com/NnOrvbO" height="80%" width="80%" alt="create a MS Azure VM"/>
+<img src="https://imgur.com/NnOrvbO.png" height="80%" width="80%" alt="enable php extensions"/>
 </p>
 
 
@@ -132,7 +132,7 @@ Create a database called " osTicket"
 
 
 <p>
-<img src="https://imgur.com/bPytW5Y.png" height="80%" width="80%" alt="create a MS Azure VM"/>
+<img src="https://imgur.com/bPytW5Y.png" height="80%" width="80%" alt="create osticket database"/>
 </p>
 
 
