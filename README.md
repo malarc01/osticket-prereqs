@@ -45,12 +45,12 @@ Install from the downloaded files the file named " PHPManagerForIISV1.5.0 "
 
 
 <p>
-<img src="https://i.imgur.com/7OTYMBG" height="80%" width="80%" alt="create a MS Azure VM"/>
+<img src="https://i.imgur.com/7OTYMBG.png" height="80%" width="80%" alt="create a MS Azure VM"/>
 </p>
 
 Install from the downloaded files the file " rewrite_amd64_en-US " Also known as IIS URL Rewrite Module 2 according to the setup screen.
 <p>
-<img src="https://imgur.com/lYv8aUO" height="80%" width="80%" alt="create a MS Azure VM"/>
+<img src="https://imgur.com/lYv8aUO.png" height="80%" width="80%" alt="create a MS Azure VM"/>
 </p>
 
 Create a folder/directory in C:\ drive and called it "PHP" final result -> C:/PHP to store the PHP files in the next steps.
