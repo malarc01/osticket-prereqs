@@ -58,7 +58,7 @@ Create a folder/directory in C:\ drive and called it "PHP" final result -> C:/PH
 Install from the downloaded files the file named " VC_redist.x86 "
 
 <p>
-<img src="https://imgur.com/MPLkcUo" height="80%" width="80%" alt="create a MS Azure VM"/>
+<img src="https://imgur.com/MPLkcUo.png" height="80%" width="80%" alt="create a MS Azure VM"/>
 </p>
 
 <h2>Installation of MySQL database</h2>
@@ -79,19 +79,19 @@ Double click on the PHP Manager icon to ENABLE and REGISTER a new PHP version fo
 
 
 <p>
-<img src="https://imgur.com/E4Ryo2I" height="80%" width="80%" alt="create a MS Azure VM"/>
+<img src="https://imgur.com/E4Ryo2I.png" height="80%" width="80%" alt="create a MS Azure VM"/>
 </p>
 
 
 Right click on "osTicket-v1.15.8" file and select "Extract All" to unzip the files.
 Copy the folder called upload into the following path "C:\inetpub\wwwroot".
 <p>
-<img src="https://imgur.com/Za985Py" height="80%" width="80%" alt="create a MS Azure VM"/>
+<img src="https://imgur.com/Za985Py.png" height="80%" width="80%" alt="create a MS Azure VM"/>
 </p>
 Rename the folder " upload " you just copied to " osTicket ".
 
 <p>
-<img src="https://imgur.com/nsi18J7" height="80%" width="80%" alt="create a MS Azure VM"/>
+<img src="https://imgur.com/nsi18J7.png" height="80%" width="80%" alt="create a MS Azure VM"/>
 </p>
 
 
@@ -103,7 +103,7 @@ Go to Sites -> Default -> osTicket
 On the right side, find and click "Browse *:80".
 This will launch the setup page for osTicket 
 <p>
-<img src="https://imgur.com/mcE5hi2" height="80%" width="80%" alt="create a MS Azure VM"/>
+<img src="https://imgur.com/mcE5hi2.png" height="80%" width="80%" alt="create a MS Azure VM"/>
 </p>
 
 In Internet Information Services (IIS) click on the " PHP Manager " to ENABLE 3 extensions that are disabled.
@@ -132,13 +132,13 @@ Create a database called " osTicket"
 
 
 <p>
-<img src="https://imgur.com/bPytW5Y" height="80%" width="80%" alt="create a MS Azure VM"/>
+<img src="https://imgur.com/bPytW5Y.png" height="80%" width="80%" alt="create a MS Azure VM"/>
 </p>
 
 
 Setup of the osTicket in the browser
 <p>
-<img src="https://imgur.com/bPytW5Y" height="80%" width="80%" alt="create a MS Azure VM"/>
+<img src="https://imgur.com/bPytW5Y.png" height="80%" width="80%" alt="create a MS Azure VM"/>
 </p>
 
 For security reasons delete the folder setup in C:\inetpub\wwwroot\osTicket\setup
